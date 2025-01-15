@@ -1,0 +1,16 @@
+#grid{
+    max-width: 300px;
+}
+.box {
+    min-height: 100px;
+    max-width: 100px;
+}
+
+#alert--container {
+    /* color: rgb(58, 80, 158);
+    font-weight: bold; */
+    min-height: 70px;
+}
+.btn{
+    text-align: center;
+}
